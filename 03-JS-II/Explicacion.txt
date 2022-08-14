@@ -1,0 +1,12 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for
+&&, ||, !
+Desde la carpeta Prep en la carpeta donde clonaste el repo, ingresa el comando npm test JSII.test.js para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo homework.js.
+
+for es una funcion de javascript para poder repetir algo mientras que yo condicione que se repita.
+
+&& es un operador logico para decir 'Y' por ejmplo 'Esto y esto'
+
+|| es un operador logico para decir 'Esto o Esto otro'
+
+! es un operador logico para decir 'Esto no, sino lo opuesto' ejemplo: !VERDADERO = FALSO
